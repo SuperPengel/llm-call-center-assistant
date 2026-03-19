@@ -1,0 +1,57 @@
+[
+  {
+    "call_id": "C001",
+    "customer_id": "U123",
+    "advisor_id": "A09",
+    "call_date": "2026-03-10",
+    "call_topic": "invoice_issue",
+    "call_duration_sec": 532,
+    "customer_sentiment": "frustrated",
+    "resolved": true,
+    "transcript": "Customer says they received the wrong invoice amount and wants clarification about extra charges."
+  },
+  {
+    "call_id": "C002",
+    "customer_id": "U145",
+    "advisor_id": "A04",
+    "call_date": "2026-03-10",
+    "call_topic": "insurance_change",
+    "call_duration_sec": 418,
+    "customer_sentiment": "neutral",
+    "resolved": true,
+    "transcript": "Customer wants to update their insurance package after moving to a new address."
+  },
+  {
+    "call_id": "C003",
+    "customer_id": "U167",
+    "advisor_id": "A11",
+    "call_date": "2026-03-11",
+    "call_topic": "complaint_objection",
+    "call_duration_sec": 689,
+    "customer_sentiment": "upset",
+    "resolved": false,
+    "transcript": "Customer disagrees with a rejected claim and asks how to file a formal objection."
+  },
+  {
+    "call_id": "C004",
+    "customer_id": "U182",
+    "advisor_id": "A07",
+    "call_date": "2026-03-11",
+    "call_topic": "document_request",
+    "call_duration_sec": 301,
+    "customer_sentiment": "neutral",
+    "resolved": true,
+    "transcript": "Customer asks which documents are required to complete their application."
+  },
+  {
+    "call_id": "C005",
+    "customer_id": "U190",
+    "advisor_id": "A03",
+    "call_date": "2026-03-12",
+    "call_topic": "payment_plan",
+    "call_duration_sec": 455,
+    "customer_sentiment": "worried",
+    "resolved": true,
+    "transcript": "Customer cannot pay the outstanding balance at once and asks for a payment arrangement."
+  }
+]
