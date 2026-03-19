@@ -1,0 +1,32 @@
+[
+  {
+    "doc_id": "KB001",
+    "title": "Facturatiebeleid",
+    "category": "billing",
+    "content": "Invoices are issued monthly on the first business day. Customers can request clarification within 30 days. Duplicate billing must be investigated within 5 working days."
+  },
+  {
+    "doc_id": "KB002",
+    "title": "Wijziging verzekering",
+    "category": "policy_changes",
+    "content": "Customers may change their insurance package once per quarter. Address changes must be processed before coverage changes are finalized."
+  },
+  {
+    "doc_id": "KB003",
+    "title": "Bezwaarprocedure",
+    "category": "complaints",
+    "content": "Customers can submit a formal objection by phone, email, or online form. Escalation to a senior case handler is possible if the first review is rejected."
+  },
+  {
+    "doc_id": "KB004",
+    "title": "Documentvereisten",
+    "category": "verification",
+    "content": "Accepted documents include a valid passport, national ID card, proof of address, and recent bank statement."
+  },
+  {
+    "doc_id": "KB005",
+    "title": "Betalingsregeling",
+    "category": "payments",
+    "content": "Customers with outstanding balances may request a payment plan in installments. Missed installments can result in cancellation of the arrangement."
+  }
+]
