@@ -131,4 +131,4 @@ This project uses **synthetic data** for demonstration purposes only.
 
 ## 👤 Author
 
-[Your Name]
+Mark Pengel
